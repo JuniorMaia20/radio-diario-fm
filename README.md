@@ -1,2 +1,2 @@
 # radio-diario-fm
-Teste para vaga de Web Designer
+Projeto de layout de teste para vaga de Web Designer.
